@@ -1,4 +1,4 @@
-# Biomedical-sinal-processing
+# Biomedical-signal-processing
 final project
 
 JBios: http://dcm.ffclrp.usp.br/csim/jbios/?p=download#PhysionetLibrary
