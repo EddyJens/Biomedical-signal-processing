@@ -7,4 +7,4 @@ name = 't106sm'
 filename = paste(name,'.mat', sep = '')
 m = readMat(filename)
 filename_output = paste('out_',name, '.txt', sep = "")
-write(m$val, filename_output)
+write(t(m$val), filename_output)
