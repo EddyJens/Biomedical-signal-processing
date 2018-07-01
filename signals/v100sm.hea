@@ -1,0 +1,9 @@
+v100sm 4 250 2500
+v100sm.mat 16+192 2264/mV 16 0 669 -21722 0 II
+v100sm.mat 16+192 1835/mV 16 0 133 30047 0 V
+v100sm.mat 16+192 1255/NU 16 0 1218 7908 0 PLETH
+v100sm.mat 16+192 38570/NU 16 0 -147 32403 0 RESP
+#Ventricular_Tachycardia
+#False alarm
+#Creator: wfdb2mat
+#Source: record challenge/2015/training/v100s

@@ -1,0 +1,8 @@
+t106sm 3 250 2500
+t106sm.mat 16+192 4832/mV 16 0 1560 -20472 0 II
+t106sm.mat 16+192 8249/mV 16 0 3416 22918 0 III
+t106sm.mat 16+192 15960/NU 16 0 7071 -26695 0 PLETH
+#Tachycardia
+#True alarm
+#Creator: wfdb2mat
+#Source: record challenge/2015/training/t106s
